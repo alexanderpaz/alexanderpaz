@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexanderpaz
 - 👀 I’m interested in Data Science, ML and DL.
-- 🌱 I’m currently learning Feature Engineering in Python
 - 💞️ I’m looking to collaborate on Data Science projects in the Education area.
 - 📫 Email me at: alexanderpaz@gmail.com
 
